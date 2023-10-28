@@ -6,7 +6,7 @@
 <div align="center">
     <h1></h1>
 </div>
-<div align="center"> Speaking of personal things:</div>
+<h1 align="center"> Speaking of personal things:</h1>
 <div align="center">- 👨‍🏛 Now I'm a student.</div>
 <div align="center">- 🌱 Now I'm studying Android development.</div>
 <div align="center">- 🤔 My hobbies are anime and manga.</div>
