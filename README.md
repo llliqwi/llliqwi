@@ -35,10 +35,10 @@
     <img src="https://count.getloli.com/get/@Art1ord?theme=moebooru">
 </div>
 
-![codewars](https://www.codewars.com/users/llliqwi/badges/large)
+
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=llliqwi&style=flat-square&color=blueviolet" alt=""><img
-src="https://img.shields.io/github/followers/llliqwi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></p>
+src="https://img.shields.io/github/followers/llliqwi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />![codewars](https://www.codewars.com/users/llliqwi/badges/large)</p>
 
 
 
