@@ -32,7 +32,8 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=llliqwi&style=flat-square&color=blueviolet" alt=""><img
 src="https://img.shields.io/github/followers/llliqwi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></p>
 
-[![Логотип](https://img.shields.io/badge/<font size="5">Shikimori</font>-Color?logo=Logo&link=URL)](https://shikimori.me/liqwi)
+<h1 style="font-size: 20px;">[![Логотип](https://img.shields.io/badge/Shikimori-Color?logo=Logo&link=URL)](https://shikimori.me/liqwi)</h1>
+
 
 
 
