@@ -29,7 +29,5 @@
     <img src="https://count.getloli.com/get/@Art1ord?theme=moebooru">
 </div>
 
-<div align="center"> href="https://www.github.com/llliqwi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/llliqwi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></div>
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=llliqwi&style=flat-square&color=blueviolet" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=llliqwi&style=flat-square&color=blueviolet" alt="">href="https://www.github.com/llliqwi" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/llliqwi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></p>
