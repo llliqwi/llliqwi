@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Mikhail
+<div align="center"> ### Hi there 👋, my name is Mikhail </div>
 
 - 🔭 I’m currently working on self-development 
 
