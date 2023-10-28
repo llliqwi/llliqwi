@@ -14,7 +14,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=llliqwi&show_icons=true&locale=en&theme=tokyonight" alt="llliqwi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=llliqwi&&theme=tokyonight" alt="llliqwi" /></p>
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=llliqwi&&theme=tokyonight" alt="llliqwi" /></div>
 
 <div align="center">
     <h2>𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙧𝙚𝙖𝙙𝙞𝙣𝙜</h2>
