@@ -26,7 +26,7 @@
 </div>
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=llliqwi&&theme=tokyonight" alt="llliqwi" /></div>
 
-!<div align="center">[codewars]</div>(https://www.codewars.com/users/llliqwi/badges/large)
+![codewars](https://www.codewars.com/users/llliqwi/badges/large)
 <div align="center">
     <h1>𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙧𝙚𝙖𝙙𝙞𝙣𝙜</h1>
 </div>
