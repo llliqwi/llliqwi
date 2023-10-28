@@ -30,4 +30,4 @@
     <img src="https://count.getloli.com/get/@Art1ord?theme=moebooru">
 </div>
 
- ![](https://komarev.com/ghpvc/?username=llliqwi&color=blueviolet)
+ ![<div align="center"></div>](https://komarev.com/ghpvc/?username=llliqwi&color=blueviolet)
