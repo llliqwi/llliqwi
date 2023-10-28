@@ -34,7 +34,9 @@
     <img src="https://typograssy.deno.dev/api?text=Thank%20you%20for%20visiting%20my%20profile!&l0=none&l1=ef858c&l2=62b7d8&l3=ffb6c1&l4=caf9ff&bg=none&frame=none&speed=250&comment=">
     <img src="https://count.getloli.com/get/@Art1ord?theme=moebooru">
 </div>
+
 ![codewars](https://www.codewars.com/users/llliqwi/badges/large)
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=llliqwi&style=flat-square&color=blueviolet" alt=""><img
 src="https://img.shields.io/github/followers/llliqwi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></p>
 
