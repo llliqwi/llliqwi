@@ -12,7 +12,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=llliqwi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="llliqwi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=llliqwi&show_icons=true&locale=en&theme=tokyonight" alt="llliqwi" /></p>
+<div align="center"> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=llliqwi&show_icons=true&locale=en&theme=tokyonight" alt="llliqwi" /></div>
 
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=llliqwi&&theme=tokyonight" alt="llliqwi" /></div>
 
