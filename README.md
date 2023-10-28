@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Mikhail
 
-Skills: Skills: JS / JAVA / Kotlin / Python
-
 - 🔭 I’m currently working on self-development 
 
 
