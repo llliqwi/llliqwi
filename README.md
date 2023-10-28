@@ -11,21 +11,18 @@
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <div align="center">
-    <h2> </h2>
+    <h2>Top langs</h2>
 </div>
 
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=llliqwi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="llliqwi" /></div>
 <div align="center">
-    <h2> </h2>
+    <h2>Stats</h2>
 </div>
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=llliqwi&show_icons=true&locale=en&theme=tokyonight" alt="llliqwi" /> </div>
 <div align="center">
     <h2> </h2>
 </div>
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=llliqwi&&theme=tokyonight" alt="llliqwi" /></div>
-<div align="center">
-    <h2> </h2>
-</div>
 <div align="center">
     <h2>𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙧𝙚𝙖𝙙𝙞𝙣𝙜</h2>
 </div>
