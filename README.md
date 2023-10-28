@@ -1,6 +1,5 @@
-<div align="center"> Hi there 👋, my name is Mikhail </div>
-
-<div align="center">- 🔭 I’m currently working on self-development</div>
+<h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Edison Lee</a>!</h1>
+<h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 
  [<div align="center"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/llliqwi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'></div>](https://t.me/lliqwi)
