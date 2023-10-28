@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm <a href="https://www.edisonlee55.com">Mikhail</a>!</h1>
+<h1 align="center">Hi👋, I'm <a href="https://t.me/lliqwi">Mikhail</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 
