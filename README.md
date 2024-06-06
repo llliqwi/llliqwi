@@ -1,16 +1,5 @@
-<h1 align="center">Hi👋, I'm <a href="https://t.me/lliqwi">Mikhail</a>!</h1>
-<h1 align="center"> Speaking of personal things:</h1>
-<div align="center">- 👨‍🏛 Now I'm a student.</div>
-<div align="center">- 🌱 Now I'm studying Android development.</div>
-<div align="center">- 🤔 My hobbies are anime and manga.</div>
-<div align="center">- 💼 I have obsessive-compulsive disorder.</div>
-<div align="center">- 💬 If you have questions, just ask me.</div>
-<div align="center">
-    <h1></h1>
-</div>
 <div align="center"><a href="https://shikimori.me/liqwi" target="_blank"><img src="https://img.shields.io/badge/Shikimori-%23800080?logo=Logo" alt="DEV.to"></a>
 <a href="https://vk.com/halliucination" target="_blank"><img src="https://img.shields.io/badge/Вконтакте-%230000FF?logo=Logo" alt="DEV.to"></a>
-<a href="https://soundcloud.com/liqwi" target="_blank"><img src="https://img.shields.io/badge/Soundcloud-%23FFA500?logo=Logo" alt="DEV.to"></a>
 <a href="https://t.me/lliqwi" target="_blank"><img src="https://img.shields.io/badge/Telegram-%2300BFFF?logo=Logo" alt="DEV.to"></a>
 </div>
 <h1 align="center">Languages and Tools:</h1>
